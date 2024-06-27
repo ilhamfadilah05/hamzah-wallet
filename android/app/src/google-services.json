@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548063516434",
+    "project_id": "babu-app-78b8d",
+    "storage_bucket": "babu-app-78b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548063516434:android:3a3724340157cc643305cb",
+        "android_client_info": {
+          "package_name": "com.example.kopi_enjoy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4Y0swnrT0Bl6wXoneru5uLOutTfSJZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548063516434:android:c3e3af6a21f66ea53305cb",
+        "android_client_info": {
+          "package_name": "com.hamzah.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4Y0swnrT0Bl6wXoneru5uLOutTfSJZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
